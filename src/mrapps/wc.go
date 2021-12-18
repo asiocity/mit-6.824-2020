@@ -7,10 +7,11 @@ package main
 //
 
 import (
-	"golabs/src/mr"
 	"strconv"
 	"strings"
 	"unicode"
+
+	"golabs/src/mr"
 )
 
 //

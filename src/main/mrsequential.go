@@ -8,12 +8,13 @@ package main
 
 import (
 	"fmt"
-	"golabs/src/mr"
 	"io/ioutil"
 	"log"
 	"os"
 	"plugin"
 	"sort"
+
+	"golabs/src/mr"
 )
 
 // for sorting by key.

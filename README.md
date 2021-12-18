@@ -1,6 +1,6 @@
 # MIT 6.824
 
-- [ ] [Lab 1 MapReduce](lab1.md)
+- [x] [Lab 1 MapReduce](lab1.md)
 - [ ] Lab 2 Raft
   - [ ] Lab 2A
   - [ ] Lab 2B

@@ -11,9 +11,10 @@ package main
 
 import (
 	"fmt"
-	"golabs/src/mr"
 	"os"
 	"time"
+
+	"golabs/src/mr"
 )
 
 func main() {

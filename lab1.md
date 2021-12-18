@@ -29,7 +29,3 @@ map worker 定期将内存中缓存的数据写入本地磁盘, 通过相同的�
 reduce worker 遍历排序后的中间数据, 对于遇到的每个唯一的中间键, 它将键和相应的中间值集传递给用户的 Reduce 函数. Reduce 函数的输出被附加到这个 reduce 分区的最终输出文件中.
 
 > 6. The reduce worker iterates over the sorted intermediate data and for each unique intermediate key encountered, it passes the key and the correspondingset of intermediate values to the user’s Reduce function. The output of the Reduce function is appended to a final output file for this reduce partition.
-
-## 实现
-
-TODO
